@@ -2,5 +2,5 @@
 
 Hi World!
 
-I am learning GitHub usage with this tutorial.
-I hope I can manage codes easily!
+I am learning about GitHub with this tutorial.
+I hope I can use GitHub more useful!
